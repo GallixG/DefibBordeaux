@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar  9 09:17:21 2020
-
 @author: alexandre.wargnier and pialleport.lucas
 """
 #importation des librairy nécéssaire :
