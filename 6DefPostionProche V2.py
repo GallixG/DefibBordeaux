@@ -76,3 +76,4 @@ print("Les défibrilateurs les plus proche de votre position sont les suivants :
 
 for i in range(len(affichage)):
     print(affichage[i])
+    
